@@ -10,11 +10,9 @@
 <h2 align="left">Hi 👋! I`am Wanheda ...</h2>
 <p align="left">Back-end Developer with 6 years of hands-on experience in product development, product structure and
 analysis, database design, technical strategies, real-time services, and highly familiar with devops and front-end
-development, with a proven ability to collaborate effectively with senior developers while spending extra time to be
-mentored. Enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks.
-Passionate about learning and development with a desire to apply skills on larger development teams. Eager to
-tackle more complex problems and continue to find ways to maximize user efficiency...</p>
+development ...</p>
 
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img width="12" />
@@ -22,11 +20,10 @@ tackle more complex problems and continue to find ways to maximize user efficien
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
