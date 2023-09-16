@@ -7,6 +7,8 @@
   </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=w74anheda&style=flat-square)
+
 <h2 align="left">Hi 👋! I`am Wanheda ...</h2>
 <p align="left">Back-end Developer with 6 years of hands-on experience in product development, product structure and
 analysis, database design, technical strategies, real-time services, and highly familiar with devops and front-end
